@@ -1,0 +1,516 @@
+{
+	"booths":
+	[
+		{
+		"boothNumber": "NWA",
+		"clientName": "Apple",
+		"style": "Classic"
+		},
+		{
+		"boothNumber": "NWB",
+		"clientName": "Halsey",
+		"style": "Contemporary"
+		},
+		{
+		"boothNumber": "NWN1",
+		"clientName": "None",
+		"style": "Edge"
+		},
+		{
+		"boothNumber": "NWN2",
+		"clientName": "None",
+		"style": "Contour"
+		},
+		{
+		"boothNumber": "NWN3",
+		"clientName": "None",
+		"style": "Boardwalk"
+		},
+		{
+		"boothNumber": "NWN4",
+		"clientName": "None",
+		"style": "Modern"
+		},
+		{
+		"boothNumber": "NWN5",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NWN6",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NWN7",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NWN8",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NWN9",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NWN10",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NWN11",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NWN12",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NWN13",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NWN14",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NWN15",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NEA",
+		"clientName": "Apple",
+		"style": "Classic"
+		},
+		{
+		"boothNumber": "NEB",
+		"clientName": "Halsey",
+		"style": "Contemporary"
+		},
+		{
+		"boothNumber": "NEN1",
+		"clientName": "None",
+		"style": "Edge"
+		},
+		{
+		"boothNumber": "NEN2",
+		"clientName": "None",
+		"style": "Contour"
+		},
+		{
+		"boothNumber": "NEN3",
+		"clientName": "None",
+		"style": "Boardwalk"
+		},
+		{
+		"boothNumber": "NEN4",
+		"clientName": "None",
+		"style": "Modern"
+		},
+		{
+		"boothNumber": "NEN5",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NEN6",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NEN7",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NEN8",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NEN9",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NEN10",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NEN11",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NEN12",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NEN13",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NEN14",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "NEN15",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "EA",
+		"clientName": "Apple",
+		"style": "Classic"
+		},
+		{
+		"boothNumber": "EB",
+		"clientName": "Halsey",
+		"style": "Contemporary"
+		},
+		{
+		"boothNumber": "EN1",
+		"clientName": "None",
+		"style": "Edge"
+		},
+		{
+		"boothNumber": "EN2",
+		"clientName": "None",
+		"style": "Contour"
+		},
+		{
+		"boothNumber": "EN3",
+		"clientName": "None",
+		"style": "Boardwalk"
+		},
+		{
+		"boothNumber": "EN4",
+		"clientName": "None",
+		"style": "Modern"
+		},
+		{
+		"boothNumber": "EN5",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "EN6",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "EN7",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "EN8",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "EN9",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "EN10",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "EN11",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "EN12",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "EN13",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "EN14",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "EN15",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SEA",
+		"clientName": "Apple",
+		"style": "Classic"
+		},
+		{
+		"boothNumber": "SEB",
+		"clientName": "Halsey",
+		"style": "Contemporary"
+		},
+		{
+		"boothNumber": "SEN1",
+		"clientName": "None",
+		"style": "Edge"
+		},
+		{
+		"boothNumber": "SEN2",
+		"clientName": "None",
+		"style": "Contour"
+		},
+		{
+		"boothNumber": "SEN3",
+		"clientName": "None",
+		"style": "Boardwalk"
+		},
+		{
+		"boothNumber": "SEN4",
+		"clientName": "None",
+		"style": "Modern"
+		},
+		{
+		"boothNumber": "SEN5",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SEN6",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SEN7",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SEN8",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SEN9",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SEN10",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SEN11",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SEN12",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SEN13",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SEN14",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SEN15",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SWA",
+		"clientName": "Apple",
+		"style": "Classic"
+		},
+		{
+		"boothNumber": "SWB",
+		"clientName": "Halsey",
+		"style": "Contemporary"
+		},
+		{
+		"boothNumber": "SWN1",
+		"clientName": "None",
+		"style": "Edge"
+		},
+		{
+		"boothNumber": "SWN2",
+		"clientName": "None",
+		"style": "Contour"
+		},
+		{
+		"boothNumber": "SWN3",
+		"clientName": "None",
+		"style": "Boardwalk"
+		},
+		{
+		"boothNumber": "SWN4",
+		"clientName": "None",
+		"style": "Modern"
+		},
+		{
+		"boothNumber": "SWN5",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SWN6",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SWN7",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SWN8",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SWN9",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SWN10",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SWN11",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SWN12",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SWN13",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SWN14",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "SWN15",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "WA",
+		"clientName": "Apple",
+		"style": "Classic"
+		},
+		{
+		"boothNumber": "WB",
+		"clientName": "Halsey",
+		"style": "Contemporary"
+		},
+		{
+		"boothNumber": "WN1",
+		"clientName": "None",
+		"style": "Edge"
+		},
+		{
+		"boothNumber": "WN2",
+		"clientName": "None",
+		"style": "Contour"
+		},
+		{
+		"boothNumber": "WN3",
+		"clientName": "None",
+		"style": "Boardwalk"
+		},
+		{
+		"boothNumber": "WN4",
+		"clientName": "None",
+		"style": "Modern"
+		},
+		{
+		"boothNumber": "WN5",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "WN6",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "WN7",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "WN8",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "WN9",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "WN10",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "WN11",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "WN12",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "WN13",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "WN14",
+		"clientName": "None",
+		"style": "None"
+		},
+		{
+		"boothNumber": "WN15",
+		"clientName": "None",
+		"style": "None"
+		},
+	],
+	"expoName": "ExpoHall1"
+}
